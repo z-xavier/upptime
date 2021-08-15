@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.zxavier.com",
     "slug": "xavier-s-blog",
     "status": "down",
-    "uptime": "94.60%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "94.60%",
-    "uptimeMonth": "94.60%",
-    "uptimeYear": "94.60%",
+    "uptime": "52.73%",
+    "uptimeDay": "52.73%",
+    "uptimeWeek": "52.73%",
+    "uptimeMonth": "52.73%",
+    "uptimeYear": "52.73%",
     "time": 539,
     "timeDay": 539,
     "timeWeek": 539,
     "timeMonth": 539,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2021-08-15": 3
+      "2021-08-15": 42
     }
   },
   {
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/url.zxavier.com",
     "slug": "blinks",
     "status": "up",
-    "uptime": "69.45%",
-    "uptimeDay": "69.45%",
-    "uptimeWeek": "69.45%",
-    "uptimeMonth": "69.45%",
-    "uptimeYear": "69.45%",
+    "uptime": "82.98%",
+    "uptimeDay": "82.98%",
+    "uptimeWeek": "82.98%",
+    "uptimeMonth": "82.98%",
+    "uptimeYear": "82.98%",
     "time": 530,
     "timeDay": 530,
     "timeWeek": 530,
@@ -44,19 +44,19 @@
     "url": "https://bw.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/bw.zxavier.com",
     "slug": "vaultwarden",
-    "status": "down",
-    "uptime": "95.67%",
-    "uptimeDay": "95.67%",
-    "uptimeWeek": "95.67%",
-    "uptimeMonth": "95.67%",
-    "uptimeYear": "95.67%",
-    "time": 385,
-    "timeDay": 385,
-    "timeWeek": 385,
-    "timeMonth": 385,
-    "timeYear": 385,
+    "status": "up",
+    "uptime": "53.64%",
+    "uptimeDay": "53.64%",
+    "uptimeWeek": "53.64%",
+    "uptimeMonth": "53.64%",
+    "uptimeYear": "53.64%",
+    "time": 4015,
+    "timeDay": 4015,
+    "timeWeek": 4015,
+    "timeMonth": 4015,
+    "timeYear": 4015,
     "dailyMinutesDown": {
-      "2021-08-15": 2
+      "2021-08-15": 41
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://git.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/git.zxavier.com",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "96.71%",
-    "uptimeDay": "96.71%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "96.71%",
-    "uptimeYear": "96.71%",
-    "time": 574,
-    "timeDay": 574,
-    "timeWeek": 574,
-    "timeMonth": 574,
-    "timeYear": 574,
+    "status": "up",
+    "uptime": "54.05%",
+    "uptimeDay": "54.05%",
+    "uptimeWeek": "54.05%",
+    "uptimeMonth": "54.05%",
+    "uptimeYear": "54.05%",
+    "time": 4240,
+    "timeDay": 4240,
+    "timeWeek": 4240,
+    "timeMonth": 4240,
+    "timeYear": 4240,
     "dailyMinutesDown": {
-      "2021-08-15": 2
+      "2021-08-15": 41
     }
   },
   {
@@ -102,19 +102,19 @@
     "url": "https://image.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/image.zxavier.com",
     "slug": "lychee",
-    "status": "down",
-    "uptime": "97.75%",
-    "uptimeDay": "97.75%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "97.75%",
-    "time": 903,
-    "timeDay": 903,
-    "timeWeek": 903,
-    "timeMonth": 903,
-    "timeYear": 903,
+    "status": "up",
+    "uptime": "54.58%",
+    "uptimeDay": "54.58%",
+    "uptimeWeek": "54.58%",
+    "uptimeMonth": "54.58%",
+    "uptimeYear": "54.58%",
+    "time": 789,
+    "timeDay": 789,
+    "timeWeek": 789,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2021-08-15": 1
+      "2021-08-15": 40
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "https://drive.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/drive.zxavier.com",
     "slug": "drive",
-    "status": "down",
-    "uptime": "68.22%",
-    "uptimeDay": "68.22%",
-    "uptimeWeek": "68.22%",
-    "uptimeMonth": "68.22%",
-    "uptimeYear": "68.22%",
-    "time": 414,
-    "timeDay": 414,
-    "timeWeek": 414,
-    "timeMonth": 414,
-    "timeYear": 414,
+    "status": "up",
+    "uptime": "38.12%",
+    "uptimeDay": "38.12%",
+    "uptimeWeek": "38.12%",
+    "uptimeMonth": "38.12%",
+    "uptimeYear": "38.12%",
+    "time": 399,
+    "timeDay": 399,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {
-      "2021-08-15": 16
+      "2021-08-15": 55
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "https://docker.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/docker.zxavier.com",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 528,
-    "timeDay": 528,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "status": "up",
+    "uptime": "55.68%",
+    "uptimeDay": "55.68%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "55.68%",
+    "uptimeYear": "55.68%",
+    "time": 516,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2021-08-15": 0
+      "2021-08-15": 39
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeMonth": 516,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2021-08-15": 65
+      "2021-08-15": 104
     }
   }
 ]
