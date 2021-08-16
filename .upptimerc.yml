@@ -17,10 +17,6 @@ sites:
     url: https://image.zxavier.com
   - name: Drive
     url: https://drive.zxavier.com
-  - name: Portainer
-    url: https://docker.zxavier.com
-  - name: Glances
-    url: https://info.zxavier.com
 
 assignees:
   - Xavier
