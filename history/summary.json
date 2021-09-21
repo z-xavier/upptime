@@ -4,10 +4,10 @@
     "url": "https://www.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/www.zxavier.com",
     "slug": "xavier-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 623,
@@ -16,6 +16,7 @@
     "timeMonth": 616,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2021-09-21": 2,
       "2021-08-17": 20,
       "2021-08-15": 54
     }
@@ -25,9 +26,9 @@
     "url": "https://url.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/url.zxavier.com",
     "slug": "blinks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 622,
     "timeYear": 1006,
     "dailyMinutesDown": {
+      "2021-09-21": 0,
       "2021-08-15": 15
     }
   },
@@ -127,11 +129,11 @@
     "icon": "https://favicons.githubusercontent.com/drive.zxavier.com",
     "slug": "drive",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 455,
     "timeDay": 559,
     "timeWeek": 456,
