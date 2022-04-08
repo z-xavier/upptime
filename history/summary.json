@@ -4,15 +4,15 @@
     "url": "https://www.zxavier.com",
     "icon": "https://favicons.githubusercontent.com/www.zxavier.com",
     "slug": "xavier-s-blog",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "74.48%",
-    "uptimeWeek": "67.23%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "98.68%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "76.45%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "89.82%",
+    "uptimeYear": "98.69%",
     "time": 949,
-    "timeDay": 2118,
-    "timeWeek": 884,
+    "timeDay": 2220,
+    "timeWeek": 886,
     "timeMonth": 930,
     "timeYear": 949,
     "dailyMinutesDown": {
@@ -28,8 +28,7 @@
       "2022-03-29": 256,
       "2022-03-28": 24,
       "2022-03-26": 363,
-      "2022-03-25": 220,
-      "2022-03-24": 31
+      "2022-03-25": 220
     }
   },
   {
@@ -207,7 +206,7 @@
     "status": "up",
     "uptime": "83.89%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.36%",
+    "uptimeWeek": "87.39%",
     "uptimeMonth": "48.37%",
     "uptimeYear": "83.89%",
     "time": 1134,
