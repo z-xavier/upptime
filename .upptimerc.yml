@@ -11,8 +11,6 @@ sites:
     url: https://bw.zxavier.com
   - name: Gitea
     url: https://git.zxavier.com
-  - name: Drone
-    url: https://drone.zxavier.com
   - name: Lychee
     url: https://image.zxavier.com
   - name: Drive
