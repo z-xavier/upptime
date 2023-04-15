@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.62%",
-    "time": 936,
-    "timeDay": 289,
-    "timeWeek": 239,
-    "timeMonth": 234,
-    "timeYear": 915,
+    "uptimeYear": "98.68%",
+    "time": 935,
+    "timeDay": 217,
+    "timeWeek": 231,
+    "timeMonth": 233,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 577,
@@ -43,8 +43,7 @@
       "2022-05-20": 48,
       "2022-05-07": 102,
       "2022-05-06": 94,
-      "2022-04-16": 512,
-      "2022-04-15": 248
+      "2022-04-16": 512
     }
   },
   {
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
-    "time": 1038,
-    "timeDay": 207,
-    "timeWeek": 186,
-    "timeMonth": 189,
-    "timeYear": 754,
+    "time": 1037,
+    "timeDay": 157,
+    "timeWeek": 178,
+    "timeMonth": 186,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 575,
@@ -89,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
-    "time": 855,
-    "timeDay": 238,
-    "timeWeek": 183,
-    "timeMonth": 183,
-    "timeYear": 699,
+    "time": 854,
+    "timeDay": 172,
+    "timeWeek": 175,
+    "timeMonth": 181,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 574,
@@ -107,8 +106,7 @@
       "2022-06-25": 711,
       "2022-06-24": 1240,
       "2022-06-23": 22,
-      "2022-06-21": 36,
-      "2022-04-15": 15
+      "2022-06-21": 36
     }
   },
   {
@@ -117,18 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "53.18%",
+    "uptime": "53.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.34%",
-    "time": 1153,
-    "timeDay": 206,
-    "timeWeek": 181,
-    "timeMonth": 182,
+    "uptimeYear": "25.08%",
+    "time": 1150,
+    "timeDay": 178,
+    "timeWeek": 177,
+    "timeMonth": 181,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2023-04-14": 73,
+      "2023-04-15": 75,
+      "2023-04-14": 1440,
       "2023-04-13": 1440,
       "2023-04-12": 1440,
       "2023-04-11": 1440,
@@ -428,8 +427,7 @@
       "2022-04-20": 38,
       "2022-04-19": 608,
       "2022-04-17": 63,
-      "2022-04-16": 1119,
-      "2022-04-15": 1032
+      "2022-04-16": 1119
     }
   },
   {
@@ -438,16 +436,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "up",
-    "uptime": "65.14%",
+    "uptime": "65.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "46.76%",
+    "uptimeYear": "46.78%",
     "time": 926,
-    "timeDay": 344,
-    "timeWeek": 287,
-    "timeMonth": 305,
-    "timeYear": 700,
+    "timeDay": 288,
+    "timeWeek": 277,
+    "timeMonth": 301,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2023-01-18": 157,
       "2023-01-17": 1440,
@@ -666,8 +664,7 @@
       "2022-05-02": 49,
       "2022-04-19": 607,
       "2022-04-17": 63,
-      "2022-04-16": 1119,
-      "2022-04-15": 1032
+      "2022-04-16": 1119
     }
   },
   {
@@ -676,16 +673,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "up",
-    "uptime": "88.34%",
+    "uptime": "88.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "80.78%",
-    "time": 912,
-    "timeDay": 187,
-    "timeWeek": 181,
-    "timeMonth": 176,
-    "timeYear": 680,
+    "time": 911,
+    "timeDay": 171,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 679,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 568,
@@ -764,8 +761,7 @@
       "2022-04-19": 1440,
       "2022-04-18": 1440,
       "2022-04-17": 1440,
-      "2022-04-16": 1440,
-      "2022-04-15": 39
+      "2022-04-16": 1440
     }
   }
 ]
