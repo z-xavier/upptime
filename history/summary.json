@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.zxavier.com.ico",
     "slug": "xavier-s-blog",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.98%",
-    "time": 741,
-    "timeDay": 317,
-    "timeWeek": 235,
-    "timeMonth": 239,
-    "timeYear": 745,
+    "uptimeYear": "99.03%",
+    "time": 740,
+    "timeDay": 202,
+    "timeWeek": 215,
+    "timeMonth": 236,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 577,
@@ -33,8 +33,7 @@
       "2022-07-18": 48,
       "2022-07-07": 135,
       "2022-06-24": 212,
-      "2022-06-23": 280,
-      "2022-06-21": 268
+      "2022-06-23": 280
     }
   },
   {
@@ -48,11 +47,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
-    "time": 760,
-    "timeDay": 211,
-    "timeWeek": 181,
-    "timeMonth": 194,
-    "timeYear": 612,
+    "time": 759,
+    "timeDay": 204,
+    "timeWeek": 170,
+    "timeMonth": 193,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 575,
@@ -64,8 +63,7 @@
       "2022-06-30": 25,
       "2022-06-25": 711,
       "2022-06-24": 1242,
-      "2022-06-23": 23,
-      "2022-06-21": 36
+      "2022-06-23": 23
     }
   },
   {
@@ -79,11 +77,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
-    "time": 693,
-    "timeDay": 243,
-    "timeWeek": 199,
-    "timeMonth": 190,
-    "timeYear": 560,
+    "time": 691,
+    "timeDay": 162,
+    "timeWeek": 181,
+    "timeMonth": 187,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 574,
@@ -96,8 +94,7 @@
       "2022-06-30": 25,
       "2022-06-25": 711,
       "2022-06-24": 1240,
-      "2022-06-23": 22,
-      "2022-06-21": 36
+      "2022-06-23": 22
     }
   },
   {
@@ -106,18 +103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "47.89%",
+    "uptime": "47.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.15%",
-    "time": 916,
-    "timeDay": 225,
-    "timeWeek": 181,
-    "timeMonth": 188,
-    "timeYear": 663,
+    "uptimeYear": "8.88%",
+    "time": 915,
+    "timeDay": 198,
+    "timeWeek": 170,
+    "timeMonth": 187,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2023-06-20": 17,
+      "2023-06-21": 18,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -472,16 +470,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "up",
-    "uptime": "68.61%",
+    "uptime": "68.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "48.90%",
-    "time": 793,
-    "timeDay": 412,
-    "timeWeek": 316,
-    "timeMonth": 316,
-    "timeYear": 587,
+    "time": 791,
+    "timeDay": 287,
+    "timeWeek": 294,
+    "timeMonth": 311,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2023-01-18": 157,
       "2023-01-17": 1440,
@@ -680,8 +678,7 @@
       "2022-06-30": 25,
       "2022-06-26": 16,
       "2022-06-24": 213,
-      "2022-06-23": 19,
-      "2022-06-21": 35
+      "2022-06-23": 19
     }
   },
   {
@@ -690,16 +687,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "up",
-    "uptime": "89.50%",
+    "uptime": "89.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
-    "time": 815,
-    "timeDay": 257,
-    "timeWeek": 202,
-    "timeMonth": 189,
-    "timeYear": 558,
+    "uptimeYear": "98.87%",
+    "time": 814,
+    "timeDay": 162,
+    "timeWeek": 185,
+    "timeMonth": 186,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 568,
@@ -711,8 +708,7 @@
       "2022-06-30": 25,
       "2022-06-25": 711,
       "2022-06-24": 1234,
-      "2022-06-23": 19,
-      "2022-06-21": 440
+      "2022-06-23": 19
     }
   }
 ]
