@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.08%",
-    "time": 739,
-    "timeDay": 284,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 657,
+    "time": 738,
+    "timeDay": 291,
+    "timeWeek": 234,
+    "timeMonth": 244,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 577,
@@ -32,8 +32,7 @@
       "2022-07-22": 90,
       "2022-07-18": 48,
       "2022-07-07": 135,
-      "2022-06-24": 212,
-      "2022-06-23": 280
+      "2022-06-24": 212
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
-    "time": 758,
-    "timeDay": 219,
-    "timeWeek": 194,
-    "timeMonth": 195,
-    "timeYear": 609,
+    "time": 757,
+    "timeDay": 246,
+    "timeWeek": 189,
+    "timeMonth": 199,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 575,
@@ -62,8 +61,7 @@
       "2022-07-10": 102,
       "2022-06-30": 25,
       "2022-06-25": 711,
-      "2022-06-24": 1242,
-      "2022-06-23": 23
+      "2022-06-24": 1242
     }
   },
   {
@@ -77,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
-    "time": 691,
-    "timeDay": 241,
-    "timeWeek": 200,
-    "timeMonth": 190,
-    "timeYear": 554,
+    "time": 690,
+    "timeDay": 221,
+    "timeWeek": 193,
+    "timeMonth": 194,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 574,
@@ -93,8 +91,7 @@
       "2022-07-07": 48,
       "2022-06-30": 25,
       "2022-06-25": 711,
-      "2022-06-24": 1240,
-      "2022-06-23": 22
+      "2022-06-24": 1240
     }
   },
   {
@@ -103,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "47.75%",
+    "uptime": "47.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.61%",
-    "time": 914,
-    "timeDay": 214,
-    "timeWeek": 185,
-    "timeMonth": 190,
-    "timeYear": 649,
+    "uptimeYear": "8.33%",
+    "time": 912,
+    "timeDay": 196,
+    "timeWeek": 178,
+    "timeMonth": 192,
+    "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-06-22": 19,
+      "2023-06-23": 22,
+      "2023-06-22": 1440,
       "2023-06-21": 1440,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
@@ -461,8 +459,7 @@
       "2022-07-01": 120,
       "2022-06-30": 25,
       "2022-06-26": 16,
-      "2022-06-24": 232,
-      "2022-06-23": 21
+      "2022-06-24": 232
     }
   },
   {
@@ -471,16 +468,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "up",
-    "uptime": "68.70%",
+    "uptime": "68.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "48.91%",
-    "time": 790,
-    "timeDay": 412,
-    "timeWeek": 329,
-    "timeMonth": 316,
-    "timeYear": 581,
+    "time": 788,
+    "timeDay": 377,
+    "timeWeek": 323,
+    "timeMonth": 325,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-01-18": 157,
       "2023-01-17": 1440,
@@ -678,8 +675,7 @@
       "2022-07-01": 120,
       "2022-06-30": 25,
       "2022-06-26": 16,
-      "2022-06-24": 213,
-      "2022-06-23": 19
+      "2022-06-24": 213
     }
   },
   {
@@ -688,16 +684,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "up",
-    "uptime": "89.53%",
+    "uptime": "89.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
-    "time": 807,
-    "timeDay": 239,
-    "timeWeek": 201,
-    "timeMonth": 188,
-    "timeYear": 555,
+    "time": 806,
+    "timeDay": 221,
+    "timeWeek": 192,
+    "timeMonth": 194,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 568,
@@ -708,8 +704,7 @@
       "2022-07-07": 44,
       "2022-06-30": 25,
       "2022-06-25": 711,
-      "2022-06-24": 1234,
-      "2022-06-23": 19
+      "2022-06-24": 1234
     }
   }
 ]
