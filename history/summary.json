@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
     "time": 723,
-    "timeDay": 186,
-    "timeWeek": 203,
-    "timeMonth": 209,
-    "timeYear": 581,
+    "timeDay": 112,
+    "timeWeek": 192,
+    "timeMonth": 202,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 577,
@@ -44,19 +44,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
-    "time": 731,
-    "timeDay": 156,
-    "timeWeek": 160,
-    "timeMonth": 168,
-    "timeYear": 575,
+    "time": 729,
+    "timeDay": 49,
+    "timeWeek": 145,
+    "timeMonth": 161,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 575,
       "2022-12-02": 469,
       "2022-09-04": 748,
       "2022-09-03": 1057,
-      "2022-08-06": 19,
-      "2022-07-10": 102
+      "2022-08-06": 19
     }
   },
   {
@@ -70,19 +69,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
-    "time": 669,
-    "timeDay": 135,
-    "timeWeek": 160,
-    "timeMonth": 170,
-    "timeYear": 519,
+    "time": 668,
+    "timeDay": 106,
+    "timeWeek": 156,
+    "timeMonth": 165,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2023-01-03": 529,
       "2023-01-02": 574,
       "2022-12-02": 467,
       "2022-09-04": 748,
       "2022-09-03": 1056,
-      "2022-08-06": 18,
-      "2022-07-10": 18
+      "2022-08-06": 18
     }
   },
   {
@@ -91,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
     "status": "down",
-    "uptime": "46.58%",
+    "uptime": "46.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "4.15%",
-    "time": 716,
-    "timeDay": 130,
-    "timeWeek": 166,
-    "timeMonth": 169,
-    "timeYear": 601,
+    "uptimeYear": "3.88%",
+    "time": 714,
+    "timeDay": 52,
+    "timeWeek": 151,
+    "timeMonth": 162,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-07-09": 24,
+      "2023-07-10": 21,
+      "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
@@ -457,8 +456,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 962,
       "2022-07-16": 869,
-      "2022-07-12": 526,
-      "2022-07-10": 58
+      "2022-07-12": 526
     }
   },
   {
@@ -467,16 +465,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "up",
-    "uptime": "69.47%",
+    "uptime": "69.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "49.11%",
-    "time": 597,
-    "timeDay": 286,
-    "timeWeek": 278,
-    "timeMonth": 270,
-    "timeYear": 530,
+    "time": 596,
+    "timeDay": 96,
+    "timeWeek": 254,
+    "timeMonth": 259,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2023-01-18": 157,
       "2023-01-17": 1440,
@@ -665,8 +663,7 @@
       "2022-07-18": 1440,
       "2022-07-17": 962,
       "2022-07-16": 869,
-      "2022-07-12": 526,
-      "2022-07-10": 58
+      "2022-07-12": 526
     }
   },
   {
@@ -675,23 +672,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "up",
-    "uptime": "89.78%",
+    "uptime": "89.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.34%",
-    "time": 663,
-    "timeDay": 127,
-    "timeWeek": 164,
-    "timeMonth": 175,
-    "timeYear": 475,
+    "time": 662,
+    "timeDay": 53,
+    "timeWeek": 149,
+    "timeMonth": 168,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2023-01-03": 521,
       "2023-01-02": 568,
       "2022-12-02": 461,
       "2022-09-04": 748,
-      "2022-09-03": 1077,
-      "2022-07-10": 101
+      "2022-09-03": 1077
     }
   }
 ]
