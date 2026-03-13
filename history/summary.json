@@ -11,15 +11,14 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.81%",
     "time": 245,
-    "timeDay": 262,
-    "timeWeek": 232,
+    "timeDay": 257,
+    "timeWeek": 255,
     "timeMonth": 225,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2026-02-20": 20,
       "2026-01-22": 613,
-      "2026-01-21": 344,
-      "2025-03-13": 16
+      "2026-01-21": 344
     }
   },
   {
@@ -28,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/url.zxavier.com.ico",
     "slug": "blinks",
     "status": "down",
-    "uptime": "88.62%",
+    "uptime": "88.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "49.60%",
+    "uptimeYear": "49.32%",
     "time": 248,
-    "timeDay": 411,
-    "timeWeek": 128,
-    "timeMonth": 138,
-    "timeYear": 247,
+    "timeDay": 88,
+    "timeWeek": 130,
+    "timeMonth": 137,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-03-12": 29,
+      "2026-03-13": 34,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -224,8 +224,7 @@
       "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1340,
-      "2025-08-15": 16,
-      "2025-03-13": 16
+      "2025-08-15": 16
     }
   },
   {
@@ -239,16 +238,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.81%",
-    "time": 207,
-    "timeDay": 261,
-    "timeWeek": 225,
+    "time": 208,
+    "timeDay": 319,
+    "timeWeek": 259,
     "timeMonth": 225,
-    "timeYear": 210,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2026-02-20": 20,
       "2026-01-22": 613,
-      "2026-01-21": 343,
-      "2025-03-13": 16
+      "2026-01-21": 343
     }
   },
   {
@@ -257,14 +255,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "74.82%",
+    "uptime": "74.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.04%",
     "time": 424,
-    "timeDay": 458,
-    "timeWeek": 338,
+    "timeDay": 454,
+    "timeWeek": 365,
     "timeMonth": 340,
     "timeYear": 444,
     "dailyMinutesDown": {
@@ -296,8 +294,7 @@
       "2025-05-06": 26,
       "2025-05-01": 18,
       "2025-04-22": 19,
-      "2025-04-21": 400,
-      "2025-03-13": 16
+      "2025-04-21": 400
     }
   },
   {
@@ -306,18 +303,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "60.58%",
+    "uptime": "60.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 208,
-    "timeDay": 185,
-    "timeWeek": 180,
-    "timeMonth": 182,
+    "time": 207,
+    "timeDay": 181,
+    "timeWeek": 194,
+    "timeMonth": 180,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-03-12": 30,
+      "2026-03-13": 34,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -680,8 +678,7 @@
       "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
-      "2025-03-14": 1440,
-      "2025-03-13": 1440
+      "2025-03-14": 1440
     }
   },
   {
@@ -690,18 +687,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "down",
-    "uptime": "83.01%",
+    "uptime": "82.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "42.14%",
+    "uptimeYear": "41.87%",
     "time": 197,
-    "timeDay": 209,
-    "timeWeek": 184,
-    "timeMonth": 177,
+    "timeDay": 196,
+    "timeWeek": 201,
+    "timeMonth": 176,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2026-03-12": 30,
+      "2026-03-13": 34,
+      "2026-03-12": 1440,
       "2026-03-11": 1440,
       "2026-03-10": 1440,
       "2026-03-09": 1440,
@@ -913,8 +911,7 @@
       "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
-      "2025-08-12": 226,
-      "2025-03-13": 16
+      "2025-08-12": 226
     }
   }
 ]
