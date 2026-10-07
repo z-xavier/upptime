@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 236,
-    "timeDay": 220,
-    "timeWeek": 247,
+    "timeDay": 305,
+    "timeWeek": 255,
     "timeMonth": 244,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -32,12 +32,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "41.94%",
+    "uptimeYear": "42.21%",
     "time": 259,
-    "timeDay": 372,
-    "timeWeek": 318,
-    "timeMonth": 308,
-    "timeYear": 244,
+    "timeDay": 450,
+    "timeWeek": 327,
+    "timeMonth": 314,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2026-05-06": 61,
       "2026-05-05": 1440,
@@ -250,7 +250,6 @@
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
-      "2025-10-07": 1440,
       "2026-08-06": 138
     }
   },
@@ -266,9 +265,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 220,
-    "timeDay": 279,
-    "timeWeek": 271,
-    "timeMonth": 232,
+    "timeDay": 274,
+    "timeWeek": 270,
+    "timeMonth": 230,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2026-01-22": 613,
@@ -289,9 +288,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.55%",
     "time": 431,
-    "timeDay": 322,
-    "timeWeek": 381,
-    "timeMonth": 367,
+    "timeDay": 355,
+    "timeWeek": 367,
+    "timeMonth": 364,
     "timeYear": 402,
     "dailyMinutesDown": {
       "2025-10-26": 37,
@@ -334,18 +333,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "53.87%",
+    "uptime": "53.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 178,
-    "timeDay": 163,
-    "timeWeek": 181,
-    "timeMonth": 175,
+    "timeDay": 192,
+    "timeWeek": 170,
+    "timeMonth": 176,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2026-10-06": 326,
+      "2026-10-07": 295,
+      "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -708,8 +708,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
-      "2025-10-07": 1440
+      "2025-10-08": 1440
     }
   },
   {
@@ -718,18 +717,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "down",
-    "uptime": "73.81%",
+    "uptime": "73.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 179,
-    "timeDay": 151,
-    "timeWeek": 174,
+    "timeDay": 170,
+    "timeWeek": 167,
     "timeMonth": 150,
-    "timeYear": 172,
+    "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-10-06": 326,
+      "2026-10-07": 295,
+      "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
@@ -1092,8 +1092,7 @@
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
-      "2025-10-08": 1440,
-      "2025-10-07": 1440
+      "2025-10-08": 1440
     }
   }
 ]
