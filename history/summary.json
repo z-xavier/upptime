@@ -32,7 +32,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "42.73%",
+    "uptimeYear": "42.76%",
     "time": 259,
     "timeDay": 265,
     "timeWeek": 279,
@@ -281,10 +281,10 @@
     "slug": "gitea",
     "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "98.53%",
     "time": 430,
     "timeDay": 183,
     "timeWeek": 303,
@@ -323,7 +323,7 @@
       "2026-08-06": 129,
       "2026-08-18": 139,
       "2026-08-17": 820,
-      "2026-10-09": 1
+      "2026-10-09": 140
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 174,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2026-10-09": 168,
+      "2026-10-09": 308,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -716,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "down",
-    "uptime": "73.70%",
+    "uptime": "73.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -727,7 +727,7 @@
     "timeMonth": 147,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-10-09": 168,
+      "2026-10-09": 308,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
