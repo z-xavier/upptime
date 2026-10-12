@@ -32,7 +32,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.58%",
+    "uptimeYear": "43.64%",
     "time": 259,
     "timeDay": 370,
     "timeWeek": 327,
@@ -276,16 +276,16 @@
     "url": "https://git.zxavier.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "64.67%",
-    "uptimeWeek": "87.21%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "98.31%",
+    "status": "up",
+    "uptime": "97.98%",
+    "uptimeDay": "44.53%",
+    "uptimeWeek": "84.34%",
+    "uptimeMonth": "96.40%",
+    "uptimeYear": "98.25%",
     "time": 395,
-    "timeDay": 238,
-    "timeWeek": 326,
-    "timeMonth": 352,
+    "timeDay": 294,
+    "timeWeek": 339,
+    "timeMonth": 356,
     "timeYear": 401,
     "dailyMinutesDown": {
       "2025-10-26": 37,
@@ -323,7 +323,7 @@
       "2026-10-09": 393,
       "2026-10-10": 387,
       "2026-10-11": 373,
-      "2026-10-12": 136
+      "2026-10-12": 426
     }
   },
   {
@@ -343,7 +343,7 @@
     "timeMonth": 178,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2026-10-12": 296,
+      "2026-10-12": 586,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -727,7 +727,7 @@
     "timeMonth": 153,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-10-12": 296,
+      "2026-10-12": 586,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
