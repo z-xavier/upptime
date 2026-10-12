@@ -32,7 +32,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.55%",
+    "uptimeYear": "43.58%",
     "time": 259,
     "timeDay": 370,
     "timeWeek": 327,
@@ -278,10 +278,10 @@
     "slug": "gitea",
     "status": "down",
     "uptime": "97.99%",
-    "uptimeDay": "74.07%",
-    "uptimeWeek": "88.56%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "98.33%",
+    "uptimeDay": "64.67%",
+    "uptimeWeek": "87.21%",
+    "uptimeMonth": "97.06%",
+    "uptimeYear": "98.31%",
     "time": 395,
     "timeDay": 238,
     "timeWeek": 326,
@@ -323,7 +323,7 @@
       "2026-10-09": 393,
       "2026-10-10": 387,
       "2026-10-11": 373,
-      "2026-10-12": 1
+      "2026-10-12": 136
     }
   },
   {
@@ -332,7 +332,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/image.zxavier.com.ico",
     "slug": "lychee",
     "status": "down",
-    "uptime": "53.70%",
+    "uptime": "53.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -343,7 +343,7 @@
     "timeMonth": 178,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2026-10-12": 160,
+      "2026-10-12": 296,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -716,7 +716,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "down",
-    "uptime": "73.58%",
+    "uptime": "73.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -727,7 +727,7 @@
     "timeMonth": 153,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2026-10-12": 160,
+      "2026-10-12": 296,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
