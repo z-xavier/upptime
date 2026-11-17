@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 233,
-    "timeDay": 273,
-    "timeWeek": 291,
-    "timeMonth": 222,
+    "timeDay": 196,
+    "timeWeek": 289,
+    "timeMonth": 225,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-01-22": 613,
@@ -32,12 +32,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.39%",
-    "time": 260,
-    "timeDay": 316,
-    "timeWeek": 304,
-    "timeMonth": 284,
-    "timeYear": 261,
+    "uptimeYear": "53.44%",
+    "time": 259,
+    "timeDay": 197,
+    "timeWeek": 291,
+    "timeMonth": 285,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2026-05-06": 61,
       "2026-05-05": 1440,
@@ -209,7 +209,6 @@
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
-      "2025-11-17": 1440,
       "2026-08-06": 138
     }
   },
@@ -225,9 +224,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 222,
-    "timeDay": 342,
-    "timeWeek": 274,
-    "timeMonth": 227,
+    "timeDay": 193,
+    "timeWeek": 271,
+    "timeMonth": 230,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-01-22": 613,
@@ -241,16 +240,16 @@
     "url": "https://git.zxavier.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.zxavier.com.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "98.02%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.45%",
-    "time": 399,
-    "timeDay": 281,
-    "timeWeek": 487,
-    "timeMonth": 388,
+    "status": "up",
+    "uptime": "98.01%",
+    "uptimeDay": "78.75%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "98.39%",
+    "time": 398,
+    "timeDay": 250,
+    "timeWeek": 489,
+    "timeMonth": 391,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2025-11-22": 507,
@@ -283,7 +282,8 @@
       "2026-10-10": 387,
       "2026-10-11": 373,
       "2026-10-12": 426,
-      "2026-11-16": 1
+      "2026-11-17": 297,
+      "2026-11-16": 9
     }
   },
   {
@@ -298,12 +298,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 173,
-    "timeDay": 186,
-    "timeWeek": 163,
-    "timeMonth": 144,
+    "timeDay": 137,
+    "timeWeek": 168,
+    "timeMonth": 146,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-11-16": 1432,
+      "2026-11-17": 298,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -666,8 +667,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   },
   {
@@ -676,18 +676,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.zxavier.com.ico",
     "slug": "drive",
     "status": "down",
-    "uptime": "72.20%",
+    "uptime": "72.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 178,
-    "timeDay": 181,
-    "timeWeek": 357,
-    "timeMonth": 190,
+    "timeDay": 144,
+    "timeWeek": 356,
+    "timeMonth": 193,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2026-11-16": 1432,
+      "2026-11-17": 298,
+      "2026-11-16": 1440,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1050,8 +1051,7 @@
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
-      "2025-11-18": 1440,
-      "2025-11-17": 1440
+      "2025-11-18": 1440
     }
   }
 ]
